@@ -1,0 +1,5 @@
+name: neo4jLab
+channels:
+- conda-forge
+- defaults
+prefix: /Users/markito/anaconda/envs/neo4jLab

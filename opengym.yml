@@ -1,0 +1,22 @@
+name: opengym
+channels:
+- conda-forge
+- defaults
+dependencies:
+- mkl=2017.0.1=0
+- numpy=1.12.0=py27_0
+- openssl=1.0.2k=1
+- pip=9.0.1=py27_1
+- python=2.7.13=0
+- readline=6.2=2
+- setuptools=27.2.0=py27_0
+- sqlite=3.13.0=0
+- tk=8.5.18=0
+- wheel=0.29.0=py27_0
+- zlib=1.2.8=3
+- pip:
+  - gym==0.8.0
+  - pyglet==1.2.4
+  - requests==2.13.0
+  - six==1.10.0
+prefix: /Users/markito/anaconda/envs/opengym
