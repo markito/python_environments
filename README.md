@@ -1,2 +1,3 @@
 # python_environments
-Backup of Python environments
+
+Backup of Conda Python environments
